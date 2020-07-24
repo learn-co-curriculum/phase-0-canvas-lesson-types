@@ -1,43 +1,53 @@
-# Lesson Title
+# Courses, Modules, & Assignments
 
-All Readmes should follow a similar format when it comes to structure. Please
-refer to the [style guide][] for a detailed explaination of standards.
+## COURSES
 
-## Learning Goals
+Your Flatiron School program is broken up into courses. Each course represents a
+section of our core curriculum.
 
-- [Check out this Readme on writing Learning Goals][goals]
+## MODULES
 
-## Introduction
+Flatiron School organizes content within courses by breaking them up into
+modules.  The modules will control the entire flow of the course and within them
+you'll find all your lessons, labs, assignments, and quizzes for the course.
+Modules can be filled with different types of content:
 
-Sometimes called an Overview, this section should contain a brief summary of
-what the lesson contains. Great introductions present a problem that is solved
-by the concepts reviewed in this lesson.
+- **Page:** a page of content to read
+- **Discussion:** a course discussion in which teachers and students can
+  actively participate
+- **Quiz:** a course quiz
+- **Assignment:** a course assignment
+- **Link or External Tool:** an external link or tool to view information
+  outside of the course
+- **File:** a file to download or view
 
-## Contents
+You may be required to perform certain actions to complete a module.
+Requirements may include:
 
-Lessons often contain multiple sections of content. Use the Learning Goals
-you've defined to guide you on what sections and sub-sections are needed.
+- **View:** You must view the item.
+- **Mark as done:** You must mark the module item as done before you can
+  progress to the next item.
+- **Contribute:** You must post a reply to the discussion topic or contribute
+  content to a page.
+- **Submit:** You must submit the assignment, graded discussion, or quiz.
+- **Score at least X points:** You must submit the assignment with a minimum
+  of the shown score.
 
-Refer to [this guide for assistance when writing Readmes][readmes]
+You can find the 'Modules' button on the Sidebar on the left hand side within
+each course.
 
-## Conclusion
+## ASSIGNMENTS
 
-Wrap up the lesson with a brief review of what was covered. This is often a good
-place to connect the concepts discussed within a larger context.
+While the module controls the flow of the entire course, you can also access a
+running list of your course assignments via the 'Assignments' button on your
+Sidebar in the left hand side within the course.  
 
-## Resources
+By default, assignments are grouped by overdue assignments, upcoming
+assignments, undated assignments, and past assignments.
 
-This is an optional section, but list and link to resources, articles, and
-websites that you think will be beneficial for additional reading. Also, if your
-written contents included external links, it may be good to add a second
-reference here:
+Each assignment includes an icon designating where it's an assignment,
+discussion, or quiz and will also display availability dates, due dates, and the
+number of points the assignment is worth.
 
-- [Style Guide][style guide]
-- [Writing Learning Goals][goals]
-- [Writing Readmes][readmes]
-
-[style guide]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/style_guide.md
-[goals]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-learning_objectives.md
-[readmes]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-writing_readme.md
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/readme-template' title='Readme Template.'>Readme Template.</p>
+You can find the 'Assignments' button on the Sidebar on the left hand side
+within each course.
