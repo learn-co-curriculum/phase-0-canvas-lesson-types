@@ -1,4 +1,4 @@
-# Courses, Modules, & Assignments
+# Lesson Types
 
 ## COURSES
 
