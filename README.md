@@ -45,7 +45,7 @@ Sidebar in the left hand side within the course.
 By default, assignments are grouped by overdue assignments, upcoming
 assignments, undated assignments, and past assignments.
 
-Each assignment includes an icon designating where it's an assignment,
+Each assignment includes an icon designating whether it's an assignment,
 discussion, or quiz and will also display availability dates, due dates, and the
 number of points the assignment is worth.
 
